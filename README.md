@@ -1,7 +1,7 @@
 # Data-science-ML-and-EDA-Project
 IN this repostiory we will see two project
 
-1. Exploratory Data Analysis
+1. # Exploratory Data Analysis:
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 As a business manager, try to find out the weak areas where you can work to make more profit.
